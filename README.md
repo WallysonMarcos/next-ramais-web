@@ -1,6 +1,21 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+
+ 
+## 🚀 Technologies
+
+Technologies that I used to develop this mobile client
+
+- [NextJs](https://nextjs.org/docs/getting-started)
+- [TypeScript](https://www.typescriptlang.org/) 
+- [React Icons](https://react-icons.github.io/react-icons/) 
+- [React Lottie](https://github.com/chenqingspring/react-lottie) 
+- [Styled Components](https://styled-components.com/)
+- [Axios](https://github.com/axios/axios) 
+- [Eslint](https://eslint.org/)  
+
+## 💻 Getting started
+ 
 
 First, run the development server:
 
@@ -32,3 +47,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
+Made by Wallyson Silva 👋 [See my linkedin](https://www.linkedin.com/in/wallyson-silva)
